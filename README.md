@@ -12,7 +12,7 @@ Handling parameters:
 Downloading built jar file:
   - Download NBAScrapper.zip & extract contained .jar file
   - open CMD or PowerShell
-  - run command '*java -jar <PATH_TO>/NBAScrapper.jar <PLAYER NAME>*'
+  - run command 'java -jar <PATH_TO>/NBAScrapper.jar <PLAYER_NAME>'
   
 Other ways of running:
   - Clone project
