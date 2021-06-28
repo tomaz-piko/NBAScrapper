@@ -1,8 +1,8 @@
 # NBAScrapper - LIT programming task.
 
-Source code located in src/main/java/NBAScrapper/MyApp.java
+Source code located in *src/main/java/NBAScrapper/MyApp.java*
 
-Working example shown in picture NBAScrapper_example.png
+Working example shown in picture *NBAScrapper_example.png*
 
 ### Instructions:
 Handling parameters:
@@ -12,7 +12,7 @@ Handling parameters:
 Downloading built jar file:
   - Download NBAScrapper.zip & extract contained .jar file
   - open CMD or PowerShell
-  - run command 'java -jar <PATH_TO>/NBAScrapper.jar <PLAYER NAME>
+  - run command '*java -jar <PATH_TO>/NBAScrapper.jar <PLAYER NAME>*'
   
 Other ways of running:
   - Clone project
